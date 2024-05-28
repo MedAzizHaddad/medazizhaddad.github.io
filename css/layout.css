@@ -273,13 +273,13 @@ ul.slimmenu li ul {
 
 .logo{
 	position:absolute;
-	width:146px;
-	height:80px;
+	width:250px;
+	height:110px;
 	z-index:10000;
 	left:10px;
 	top:10px;
 	background:url('../images/logo.png') no-repeat center center;
-	background-size:146px 80px;
+	background-size:250px 110px;
 	-webkit-transition : all 0.5s ease-out;
 	-moz-transition : all 0.5s ease-out;
 	-o-transition :all 0.5s ease-out;
